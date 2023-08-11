@@ -9,8 +9,8 @@ This project scrapes property listings from Zillow using BeautifulSoup and then 
 
 1. Clone the repository:
 ```
-git clone [YOUR REPOSITORY LINK]
-cd [YOUR REPOSITORY DIRECTORY]
+git clone https://github.com/j-breedlove/automated_data_entry.git
+cd automated_data_entry
 ```
 
 2. Initialize and activate the virtual environment with `pipenv`:
